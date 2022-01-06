@@ -1,0 +1,10 @@
+Koostöös teistega
+GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris.[14] 2009. aasta algusest muutus GitHub aina populaarsemaks, ning sama aasta 24. veebruaril teatasid GitHubi loojad, et esimese aasta jooksul kogunes GitHubi 46 000 koodivaramut, millest koguni 17 000 olid loodud 2009. aasta alguses. Sama aasta 5. juulil teatati, et GitHubi on registreerunud üle 100 000 kasutaja. 27. juuliks oli GitHubi kogunenud juba 90 000 unikaalset koodivaramut.[15]
+
+25. juulil 2010 teatati, et GitHubi on kogunenud juba üle miljoni varamu.[16] 20. aprilliks 2011 oli see arv juba 2 miljonit.[17] Vahemikus jaanuar kuni mai aastal 2011 tehti GitHubi varamutes kokku rohkem muudatusi, kui konkurentide SourceForge'i ja Google Code'i omades.[18] 16. jaanuariks 2013 oli GitHubi registreerunud üle 3 miljoni kasutaja ning kokku oli loodud üle 5 miljoni varamu.[19] Sama aasta 23. detsembriks oli varamute arv kasvanud 10 miljonini.[20]
+
+2015. aasta juunis avas GitHub kontori Jaapanis, mis oli firma esimene kontor väljaspool USA-d.[21] Sama aasta 29. juulil hinnati GitHubi väärtuseks 2 miljardit dollarit.[22]
+
+4. juunil 2018 teatas Microsoft soovist osta GitHub 7,5 miljardi dollari eest, ning tehing sooritati 26. oktoobril 2018.[23][3][4] Microsoft määras GitHubi uueks tegevdirektoriks Xamarini asutaja Nat Friedmani. Enne GitHubi ostmist oli Microsoft hakanud teenust aina rohkem kasutama, kasutades seda enda avatud lähtekoodiga tarkvara, nagu PowerShell, hoiustamiseks.[5][23]
+
+Siiski on tehing tekitanud mõningat poleemikat, näiteks on selle suhtes olnud kriitilised JavaScripti õpetaja ja autor Kyle Simpson ja Open-Xchange'i tegevjuht Rafael Laguna, kes on toonud võrdluseks Microsofti varasemad tehingud Nokia ja Skype'iga, mis on suurelt jaolt olnud edutud.[24][25] Tänu sellele on kasvanud huvi GitHubi konkurentide vastu: Bitbucket, GitLab ning SourceForge on kõik näinud registreerunud kasutajate arvu kasvu ning paljud avatud lähtekoodiga projektid on hakanud kasutama GitHubi asemel mõnda GitHubi konkurenti.[3][26][27][28][29]
